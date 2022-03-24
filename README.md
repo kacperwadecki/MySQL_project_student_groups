@@ -1,4 +1,4 @@
-# Student Group
+# Student Groups
 
 ## database project
 * **Data**:
