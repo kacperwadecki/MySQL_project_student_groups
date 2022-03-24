@@ -3,7 +3,7 @@
 ## database project
 * **Data**:
   * students
-  * group
+  * groups
   * students in group
   
 * **Functionalities**
